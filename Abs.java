@@ -27,12 +27,12 @@ class student extends person {
    
       public void display(){
         System.out.println("______Student Information______");
-        System.out.println("This Student Name is " + name );
-        System.out.println("This Student Departmnet is " + departmnet );
-        System.out.println("This Student gpa is " + gpa );
-        System.out.println("This Student Credit Hour Completed is is " + creditcompleted );
-        System.out.println("This Student id is " + id );
-        System.out.println("This Student Gender is " + gender );
+        System.out.println("The Student Name is " + name );
+        System.out.println("The Student Departmnet is " + departmnet );
+        System.out.println("The Student gpa is " + gpa );
+        System.out.println("The Student Credit Hour Completed is is " + creditcompleted );
+        System.out.println("The Student id is " + id );
+        System.out.println("The Student Gender is " + gender );
         System.out.println("*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_* ");
 
  
